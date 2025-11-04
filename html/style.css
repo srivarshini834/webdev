@@ -1,0 +1,128 @@
+.NAVBAR{
+    margin-left:720px;
+background-color: #72c0f9 ;
+width:10px;
+}
+.logo{
+    margin-top:-52px;
+    margin-left:22px;
+}
+.welcome{
+    margin-top:110px;
+   margin-left:556px;
+}
+.tagline{
+    margin-top:3px;
+    margin-left:540px;
+}
+.para{
+    width: 998px;
+    margin-left:220px;
+}
+.percent{
+border-radius: 12px;
+margin-left:530px;
+margin-top:10px;
+}
+.percent1{
+border-radius: 12px;
+margin-left:30px;
+margin-top:10px;
+}
+.percent2{
+border-radius: 12px;
+margin-left:30px;
+margin-top:10px;
+}
+.percent3{
+border-radius: 12px;
+margin-left:30px;
+margin-top:10px;
+}
+.link{
+    border-radius: 12px;
+    text-decoration: none;
+    margin-left:220px;
+    margin-top:5px;
+    height:45px;
+    width:250px;
+}
+.linkk{
+    border-radius: 12px;
+    text-decoration: none;
+    margin-left:-45px;
+    margin-top:5px;
+    height:45px;
+    width:250px;
+}
+.green{
+    background-color: greenyellow;
+    border-color: greenyellow;
+    margin-left: 1100px;
+    margin-top:-28px;
+}
+.lines{
+    margin-top:93px;
+    width:1759px;
+    margin-left:82px;
+}
+.smth{
+    margin-top:52px;
+    width:800px;
+    margin-left:63px;
+}
+.more{
+    margin-left:95px;
+    margin-top:52px;
+    border-radius: 12px;
+    
+}
+.more1{
+    margin-top: -296px;
+    margin-left:295px;
+    border-radius: 12px;
+    
+}
+.heading{
+    margin-left:450px;
+
+}
+.one{
+    border-style: hidden;
+    margin-left:410px;
+    margin-top:20px;
+}
+.two{
+    border-style: hidden;
+}
+.three{
+    border-style: hidden;
+}
+.four{
+    border-style: hidden;
+    margin-left:10px;
+    margin-top:20px;
+}
+.five{
+    border-style: hidden;
+    margin-left:10px;
+    margin-top:20px;
+}
+.b1{
+    margin-top:52px;
+    margin-left:356px;
+    height:120px;
+    width:106px;
+}
+.b2{
+    margin-top:52px;
+    margin-left:16px;
+    height:120px;
+    width:106px;
+}
+.b3{
+    margin-top:52px;
+    margin-left:16px;
+    height:120px;
+    width:106px;
+}
