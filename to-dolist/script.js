@@ -25,5 +25,3 @@ function addtask(){
         inputbox.value = '';
     }
 }
-
-
